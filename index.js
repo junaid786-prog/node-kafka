@@ -1,0 +1,1 @@
+const kafkaClient = require('./src/client')
